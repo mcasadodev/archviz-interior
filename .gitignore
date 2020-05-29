@@ -1,0 +1,11 @@
+.vs
+.vscode
+Binaries
+Build
+Config
+Content
+Intermediate
+Saved
+VRArchViz.code-workspace
+VRArchViz.sln
+VRArchViz.uproject
